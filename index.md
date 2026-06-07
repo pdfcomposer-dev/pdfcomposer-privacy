@@ -1,11 +1,21 @@
+# PDF Composer プライバシーポリシー
+
+## PDF Composer は個人情報を収集・送信しません。
+- 広告なし
+- アクセス解析なし
+- 外部通信なし
+
+すべての処理はお使いのデバイス内で実行されます。
+ファイル、パスワード、個人情報が外部へ送信されることはありません。
+
+---
+
 # PDF Composer Privacy Policy
 
-## English
-PDF Composer does not collect, store, or transmit any personal information.
-All data processed by the application remains on the user's local PC.
-The application does not communicate with external servers.
+## PDF Composer does not collect or transmit personal information.
+- No advertisements
+- No analytics
+- No external communication
 
-## 日本語
-PDF Composer は、ユーザーの個人情報を収集・保存・送信しません。
-アプリ内で処理されるデータはすべてローカル PC 上で完結します。
-外部サーバーへの通信は一切行われません。
+All processing is performed locally on your device.
+Files, passwords, and personal information are never transmitted outside your device.
